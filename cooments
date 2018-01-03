@@ -1,0 +1,83 @@
+In dao
+
+/*******************************************************************************************************
+	 - Function Name	:	confirmBooking()
+	 - Input Parameters	:   bookingInformation
+	 - Return Type		:	bookingInformation bean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	24/12/2017
+	 - Description		:	booking tickets
+ ********************************************************************************************************/
+
+	
+	/*******************************************************************************************************
+	 - Function Name	:	confirmBooking()
+	 - Input Parameters	:   bookingInformation
+	 - Return Type		:	bookingInformation bean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	24/12/2017
+	 - Description		:	booking tickets
+ ********************************************************************************************************/
+
+
+	/*******************************************************************************************************
+	 - Function Name	:	displayBooking()
+	 - Input Parameters	:   bookingId
+	 - Return Type		:	bookingInformation bean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	24/12/2017
+	 - Description		:	display tickets
+********************************************************************************************************/
+
+
+	
+	/*******************************************************************************************************
+	 - Function Name	:	cancelBooking()
+	 - Input Parameters	:   bookingId
+	 - Return Type		:	BookingInformationBean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	26/12/2017
+	 - Description		:	Cancel a Ticket
+********************************************************************************************************/
+
+
+
+	/*******************************************************************************************************
+	 - Function Name	:	updateBooking()
+	 - Input Parameters	:   bookingId,cust_email
+	 - Return Type		:	BookingInformationBean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	26/12/2017
+	 - Description		:	update booking information
+********************************************************************************************************/
+	
+
+
+	/*******************************************************************************************************
+	 - Function Name	:	viewFlights()
+	 - Input Parameters	:   source,destination
+	 - Return Type		:	List of all flights
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	24/12/2017
+	 - Description		:	view flight information between source and destination
+********************************************************************************************************/
+
+	
+
+	/*******************************************************************************************************
+	 - Function Name	:	viewFlight()
+	 - Input Parameters	:   flightNumber
+	 - Return Type		:	FlightInformationBean
+	 - Throws		    :   ARSException
+	 - Author		    :   ARS Team
+	 - Creation Date	:	24/12/2017
+	 - Description		:	view particular flight information
+********************************************************************************************************/
+
+	
